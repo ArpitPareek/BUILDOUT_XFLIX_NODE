@@ -126,3 +126,4 @@ backend/node_modules
 backend/node_modules/
 
 assessment/test-results.xml
+backend/.env
