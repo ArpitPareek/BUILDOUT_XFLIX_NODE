@@ -119,6 +119,7 @@ dist
 .DS_Store
 build/
 node_modules
+pnpm-lock.yaml
 node_modules/
 backend/package-lock.json
 backend/pnpm-lock.yaml
